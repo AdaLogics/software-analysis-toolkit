@@ -1,2 +1,2 @@
 # software-analysis-toolkit
-hbd
+rapid prototyping of program analysis tools
